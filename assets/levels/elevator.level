@@ -1,0 +1,254 @@
+level {
+  grid: 16, 16
+}
+
+Rotator {
+  position: 9, 11
+  rotation: 0
+}
+
+Rotator {
+  position: 6, 4
+  rotation: 0
+}
+
+PushBlock {
+  position: 6, 10
+  rotation: 0
+  power_group: 0
+}
+
+Wall {
+  position: 5, 10
+  rotation: 0
+}
+
+Wall {
+  position: 7, 9
+  rotation: 0
+}
+
+Wall {
+  position: 8, 9
+  rotation: 0
+}
+
+Wall {
+  position: 7, 8
+  rotation: 0
+}
+
+Wall {
+  position: 8, 7
+  rotation: 0
+}
+
+Wall {
+  position: 8, 8
+  rotation: 0
+}
+
+Wall {
+  position: 7, 7
+  rotation: 0
+}
+
+Wall {
+  position: 7, 6
+  rotation: 0
+}
+
+Wall {
+  position: 8, 6
+  rotation: 0
+}
+
+Wall {
+  position: 10, 3
+  rotation: 0
+}
+
+Wall {
+  position: 9, 3
+  rotation: 0
+}
+
+Wall {
+  position: 5, 9
+  rotation: 0
+}
+
+Wall {
+  position: 5, 8
+  rotation: 0
+}
+
+Wall {
+  position: 5, 7
+  rotation: 0
+}
+
+Wall {
+  position: 5, 6
+  rotation: 0
+}
+
+Wall {
+  position: 5, 12
+  rotation: 0
+}
+
+Wall {
+  position: 5, 4
+  rotation: 0
+}
+
+Piston {
+  position: 10, 4
+  rotation: 3
+}
+
+Wall {
+  position: 6, 12
+  rotation: 0
+}
+
+Wall {
+  position: 10, 6
+  rotation: 0
+}
+
+Wall {
+  position: 10, 8
+  rotation: 0
+}
+
+Wall {
+  position: 10, 9
+  rotation: 0
+}
+
+Piston {
+  position: 5, 11
+  rotation: 1
+}
+
+Wall {
+  position: 10, 11
+  rotation: 0
+}
+
+Wall {
+  position: 7, 12
+  rotation: 0
+}
+
+Wall {
+  position: 10, 7
+  rotation: 0
+}
+
+Wall {
+  position: 8, 12
+  rotation: 0
+}
+
+Piston {
+  position: 9, 12
+  rotation: 2
+}
+
+Rotator {
+  position: 9, 4
+  rotation: 0
+}
+
+Rotator {
+  position: 6, 11
+  rotation: 0
+}
+
+Wall {
+  position: 10, 12
+  rotation: 0
+}
+
+BasicBlock {
+  position: 4, 4
+  rotation: 0
+}
+
+Wall {
+  position: 7, 3
+  rotation: 0
+}
+
+Wall {
+  position: 10, 5
+  rotation: 0
+}
+
+Wall {
+  position: 5, 3
+  rotation: 0
+}
+
+Piston {
+  position: 6, 3
+  rotation: 0
+}
+
+Wall {
+  position: 8, 3
+  rotation: 0
+}
+
+Player {
+  position: 3, 5
+  rotation: 0
+}
+
+Button {
+  position: 4, 3
+  rotation: 0
+  power_group: 0
+}
+
+Wall {
+  position: 7, 10
+  rotation: 0
+}
+
+Wall {
+  position: 8, 10
+  rotation: 0
+}
+
+Wall {
+  position: 7, 5
+  rotation: 0
+}
+
+Wall {
+  position: 8, 5
+  rotation: 0
+}
+
+PushBlock {
+  position: 9, 10
+  rotation: 2
+  power_group: 0
+}
+
+PushBlock {
+  position: 9, 5
+  rotation: 2
+  power_group: 0
+}
+
+PushBlock {
+  position: 6, 5
+  rotation: 0
+  power_group: 0
+}
+

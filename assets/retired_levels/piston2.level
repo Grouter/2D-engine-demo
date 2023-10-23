@@ -1,0 +1,195 @@
+! header
+required_goals: 1
+grid: 32, 18
+
+! entity
+type: "Wall"
+position: 16, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 16, 11
+rotation: 2
+
+! entity
+type: "Wall"
+position: 16, 10
+rotation: 2
+
+! entity
+type: "QuantumBlock"
+position: 16, 9
+rotation: 0
+state: 2
+
+! entity
+type: "Wall"
+position: 16, 8
+rotation: 2
+
+! entity
+type: "Wall"
+position: 19, 12
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 11
+rotation: 3
+
+! entity
+type: "Piston"
+position: 18, 9
+rotation: 3
+
+! entity
+type: "Wall"
+position: 16, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 17, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 18, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 15, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 13
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 12
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 11
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 10
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 9
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 8
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 7
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 6
+rotation: 3
+
+! entity
+type: "Wall"
+position: 13, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 15, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 16, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 10
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 9
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 8
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 7
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 6
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 18, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 17, 5
+rotation: 3
+
+! entity
+type: "Goal"
+position: 14, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 16, 7
+rotation: 3
+
+! entity
+type: "Player"
+position: 15, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 18, 10
+rotation: 0
+

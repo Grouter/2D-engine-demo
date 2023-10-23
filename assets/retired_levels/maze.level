@@ -1,0 +1,281 @@
+! header
+required_goals: 1
+grid: 32, 18
+
+# :Index 0
+! entity
+type: "Piston"
+position: 9, 6
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 10, 5
+rotation: 3
+
+# :Index 0
+! entity
+type: "Player"
+position: 10, 14
+rotation: 2
+
+# :Index 0
+! entity
+type: "Piston"
+position: 11, 11
+rotation: 3
+
+# :Index 0
+! entity
+type: "Piston"
+position: 12, 10
+rotation: 3
+
+# :Index 0
+! entity
+type: "QuantumBlock"
+position: 10, 13
+rotation: 2
+state: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 11
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 10
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 9
+rotation: 3
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 8
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 7
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 6
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 5
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 9, 5
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 11
+rotation: 3
+
+# :Index 0
+! entity
+type: "Wall"
+position: 13, 10
+rotation: 3
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 12
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 13
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 14
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 8, 15
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 9, 15
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 10, 15
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 11, 15
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 15
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 14
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 13
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 12
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 11, 7
+rotation: 3
+
+# :Index 0
+! entity
+type: "Piston"
+position: 12, 7
+rotation: 0
+
+# :Index 0
+! entity
+type: "Wall"
+position: 11, 5
+rotation: 3
+
+# :Index 0
+! entity
+type: "Wall"
+position: 12, 5
+rotation: 3
+
+# :Index 0
+! entity
+type: "Wall"
+position: 13, 5
+rotation: 3
+
+# :Index 0
+! entity
+type: "Piston"
+position: 14, 10
+rotation: 2
+
+# :Index 0
+! entity
+type: "Piston"
+position: 9, 9
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 10
+rotation: 0
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 9
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 8
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 7
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 6
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 5
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 14, 5
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 13, 7
+rotation: 1
+
+# :Index 0
+! entity
+type: "Goal"
+position: 13, 6
+rotation: 1
+
+# :Index 0
+! entity
+type: "Wall"
+position: 13, 11
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 14, 11
+rotation: 2
+
+# :Index 0
+! entity
+type: "Wall"
+position: 15, 11
+rotation: 2
+

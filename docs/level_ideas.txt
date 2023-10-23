@@ -1,0 +1,21 @@
+===== TODO =====
+
+Maze
+Player will need to push a box through maze of buttons and pushblocks. A wrong step will lock out the path or block the box.
+
+One-Way Doors
+Doors that close after player passes through.
+
+Sliding Puzzle
+Level where player needs to do a sliding puzzle to complete the level.
+
+===== DONE =====
+
+Exact Timer
+Player needs to solve the level in a exact amount of steps. The timer will have a goal and push block. If player manages to miss the
+amount of steps needed to solve, the push block will push the box beyond the goal.
+
+===== REJECTED =====
+
+Real Timer (I dont really want players to have a real timer.)
+The timer will be circling using rotators to simulate a real timer (not tied to steps).

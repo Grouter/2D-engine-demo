@@ -1,0 +1,190 @@
+! header
+required_goals: 1
+grid: 32, 18
+
+! entity
+type: "Wall"
+position: 16, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 15, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 14, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 12
+rotation: 2
+
+! entity
+type: "Wall"
+position: 14, 11
+rotation: 2
+
+! entity
+type: "Wall"
+position: 14, 10
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 11
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 10
+rotation: 2
+
+! entity
+type: "Wall"
+position: 14, 9
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 6
+rotation: 3
+
+! entity
+type: "Wall"
+position: 17, 9
+rotation: 1
+
+! entity
+type: "Wall"
+position: 14, 7
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 7
+rotation: 1
+
+! entity
+type: "QuantumBlock"
+position: 17, 8
+rotation: 1
+state: 2
+
+! entity
+type: "Piston"
+position: 19, 8
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 8
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 14, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 15, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 16, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 18, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 4
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 5
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 6
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 7
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 8
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 9
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 10
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 11
+rotation: 3
+
+! entity
+type: "Wall"
+position: 20, 12
+rotation: 3
+
+! entity
+type: "Wall"
+position: 19, 12
+rotation: 3
+
+! entity
+type: "Wall"
+position: 18, 12
+rotation: 3
+
+! entity
+type: "Goal"
+position: 18, 11
+rotation: 3
+
+! entity
+type: "Player"
+position: 15, 11
+rotation: 2
+
+! entity
+type: "Wall"
+position: 17, 6
+rotation: 3
+
